@@ -35,4 +35,4 @@ This project is a demo to show how AI can make our app better.
 
 ## Demo
 
-<video src="demo.m4v" controls width="800"></video>
+[Download Demo](demo.m4v)
