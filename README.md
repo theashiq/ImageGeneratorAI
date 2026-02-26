@@ -32,3 +32,7 @@ The best idea is to put this tool inside our main app.
 *   **Use Local AI**: For the Mac app that admins use, we can run the AI model on the computer itself. This can be faster and cheaper.
 
 This project is a demo to show how AI can make our app better.
+
+## Demo
+
+<video src="demo.m4v" controls width="800"></video>
