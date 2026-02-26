@@ -39,10 +39,4 @@ enum Theme: String, CaseIterable, Identifiable {
         case .dark: .light
         }
     }
-    var foregroundText: Theme {
-        switch self {
-        case .light: .dark
-        case .dark: .light
-        }
-    }
 }

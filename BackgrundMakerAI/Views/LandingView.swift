@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LandingView: View {
-    @StateObject var viewModel: LandingViewModel = LandingViewModel()
+    @StateObject var viewModel: LandingViewModel = LandingViewModel(imageGenerator: StabilityAIImageGenerator())
     @State var isAlertPresented: Bool = false
     @State var isInputViewPresented: Bool = false
     @State var animateInputButtonIndicator: Bool = false
@@ -17,7 +17,7 @@ struct LandingView: View {
     
     var body: some View {
         VStack {
-            Text("AI\nBackground Generator")
+            Text("AI Background Generator")
                 .font(.largeTitle)
                 .multilineTextAlignment(.center)
                 .bold()

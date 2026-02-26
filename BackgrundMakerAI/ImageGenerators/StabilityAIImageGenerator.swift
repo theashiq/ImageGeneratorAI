@@ -9,7 +9,7 @@ import Foundation
 
 final class StabilityAIImageGenerator {
     private static let urlString = "https://api.stability.ai/v2beta/stable-image/generate/sd3"
-    private static let apiKey = "sk-N7smZTMS6Du8yC0UrlkSDgRnji2LvMtA3JE0Mljn4M0tLpsi"
+    private static let apiKey = "sk-8ZQjLelsktKpE1XS2cJ20U7HiYSXqbSRnosYtOj8Ckt558Lh"
     
     func generateImage(prompt: InputPrompt) async throws -> URL {
         let url = URL(string: Self.urlString)!
