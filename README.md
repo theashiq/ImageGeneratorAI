@@ -35,4 +35,4 @@ This project is a demo to show how AI can make our app better.
 
 ## Demo
 
-[Download Demo](demo.m4v)
+[Video](demo.m4v)
