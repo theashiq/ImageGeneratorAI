@@ -35,4 +35,8 @@ This project is a demo to show how AI can make our app better.
 
 ## Demo
 
-[Video](demo.m4v)
+<p align="center">
+  <img src="demo.gif" width="500" />
+</p>
+
+[Doenload Demo Video](demo.m4v)
